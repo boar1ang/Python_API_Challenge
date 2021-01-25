@@ -8,5 +8,6 @@ Regression analysis showed a fairly strong negative correlation between latitude
 
 ## Part II: Using weather data to plan hypothetical vacations
 Using jupyter-gmaps and the Google Places API I created a heatmap to display the humidity in each of the cities from Part I. Then I narrowed the list of cities based on my ideal conditions and called the 'nearby' search of the Google API to identify the nearest hotel for each destination. I plotted the hotels 40 hotels that met my criteria and added pins with the hotel name, city name, and country name.
+[Map][https://github.com/boar1ang/Python_API_Challenge/blob/main/selected_cities_map.png]
 
 
